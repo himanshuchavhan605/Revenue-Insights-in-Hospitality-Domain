@@ -7,7 +7,8 @@ An interactive Power BI dashboard built to help hotel management track revenue p
 
 ## 📊 Dashboard Preview
 
-![Revenue Insights Dashboard](./screenshot.jpg)
+![screenshot](https://github.com/user-attachments/assets/ea2d0c41-d21a-4752-8dce-13c473922d70)
+
 
 ---
 
