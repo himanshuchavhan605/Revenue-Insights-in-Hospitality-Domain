@@ -63,4 +63,4 @@ Hotel chains managing multiple properties struggle to monitor KPIs like occupanc
 ## 👤 Author
 
 **Himanshu Chavhan** — Data Analyst  
-www.linkedin.com/in/himanshu-chavhan-b7a80123b
+https://www.linkedin.com/in/himanshu-chavhan605
